@@ -1,0 +1,13 @@
+# secrets / env
+.env
+config_local.py
+
+# Scrapy working folder
+.scrapy/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Logs
+logs/
